@@ -1,0 +1,1 @@
+tell application "Google Chrome" to get URL of active tab of front window
