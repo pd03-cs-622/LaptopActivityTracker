@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Current date (ex. 2026-03-16) is the csv file name
-file_name=$(date +%F)
+file_name="data/$(date +%F).csv"
 
 # Basic data to obtain
 current_date_time=$(date +"%FT%T%z")
@@ -19,4 +19,10 @@ num_chrome_tabs=${chrome_info[1]}
 
 DATA_ROW="$current_date_time,$current_battery,$current_window,$num_chrome_tabs,$active_chrome_tab_url"
 
-echo $DATA_ROW
+# Start the csv row headers if file does not exist (i.e. its a new day)
+if [ ! -f "$file_name" ]; then
+    echo "time,battery_percent,current_window,num_chrome_tabs,active_chrome_tab_url" > $file_name
+fi
+
+# Add the file
+echo $DATA_ROW >> $file_name
