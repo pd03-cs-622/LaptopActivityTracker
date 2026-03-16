@@ -1,1 +1,5 @@
-tell application "System Events" to get name of application processes whose frontmost is true and visible is true
+tell application "System Events"
+    set frontApp to first application process whose frontmost is true
+    set appName to displayed name of frontApp
+end tell
+return appName
