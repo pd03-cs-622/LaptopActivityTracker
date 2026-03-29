@@ -22,5 +22,4 @@ Settings:
 
 ## Data Visualization
 
-TODO
-
+I ran this script on my work computer from March 17th to March 28th, where I work regular 9 AM to 5 PM Monday through Friday.
