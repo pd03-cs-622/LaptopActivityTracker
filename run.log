@@ -1,0 +1,25 @@
+osascript: osascripts/frontmost-window.applescript: No such file or directory
+osascript: osascripts/chrome-info.applescript: No such file or directory
+/Users/pdang/LaptopActivityTracker/run.sh: line 24: data/2026-03-17.csv: No such file or directory
+/Users/pdang/LaptopActivityTracker/run.sh: line 28: data/2026-03-17.csv: No such file or directory
+/Users/pdang/LaptopActivityTracker/osascripts/frontmost-window.applescript:53:102: execution error: System Events got an error: AppleEvent timed out. (-1712)
+/Users/pdang/LaptopActivityTracker/osascripts/frontmost-window.applescript:53:102: execution error: System Events got an error: Connection is invalid. (-609)
+/Users/pdang/LaptopActivityTracker/osascripts/frontmost-window.applescript:53:102: execution error: System Events got an error: Connection is invalid. (-609)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)
+/Users/pdang/LaptopActivityTracker/osascripts/chrome-info.applescript:54:57: execution error: Google Chrome got an error: Can’t get window 1. Invalid index. (-1719)

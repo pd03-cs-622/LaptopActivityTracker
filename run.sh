@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Current date (ex. 2026-03-16) is the csv file name
-file_name="data/$(date +%F).csv"
+file_name="$HOME/LaptopActivityTracker/data/$(date +%F).csv"
 
 # Basic data to obtain
 current_date_time=$(date +"%FT%T%z")
@@ -9,11 +9,11 @@ current_battery=$(pmset -g batt | grep -Eo "\d+%")
 
 # Wrapper for oascript run -- this script returns active window
 # (what I am looking at)
-current_window=$(osascript osascripts/frontmost-window.applescript)
+current_window=$(osascript $HOME/LaptopActivityTracker/osascripts/frontmost-window.applescript)
 
-# Wrapper for oascript run -- this script returns the URL for
+# Wrapper for oascript run -- thiscr script returns the URL for
 # the current tab and the number of tabs
-chrome_info=($(osascript osascripts/chrome-info.applescript))
+chrome_info=($(osascript $HOME/LaptopActivityTracker/osascripts/chrome-info.applescript))
 active_chrome_tab_url=${chrome_info[0]%?}
 num_chrome_tabs=${chrome_info[1]}
 

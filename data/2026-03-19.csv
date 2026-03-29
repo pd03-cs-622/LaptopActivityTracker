@@ -1,0 +1,251 @@
+time,battery_percent,current_window,num_chrome_tabs,active_chrome_tab_url
+2026-03-19T01:38:00-0400,100%,Google Chrome,34,chrome://newtab/
+2026-03-19T03:20:00-0400,100%,Google Chrome,34,chrome://newtab/
+2026-03-19T04:26:00-0400,100%,Google Chrome,34,chrome://newtab/
+2026-03-19T04:31:08-0400,100%,Google Chrome,34,chrome://newtab/
+2026-03-19T05:42:00-0400,100%,Google Chrome,34,chrome://newtab/
+2026-03-19T06:32:00-0400,100%,Google Chrome,34,chrome://newtab/
+2026-03-19T08:40:00-0400,100%,Google Chrome,34,chrome://newtab/
+2026-03-19T08:56:00-0400,100%,Google Chrome,34,chrome://newtab/
+2026-03-19T09:18:00-0400,100%,Google Chrome,34,chrome://newtab/
+2026-03-19T09:20:00-0400,100%,Google Chrome,17,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/trapeze-api-oas/blob/main/docs/procedures/procedure-for-viewing-official-trapeze-api-documentation.md#procedure-for-downloading-official-trapeze-api-swagger-json-documentation
+2026-03-19T09:22:00-0400,100%,Google Chrome,17,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/trapeze-api-oas/blob/main/docs/procedures/procedure-for-viewing-official-trapeze-api-documentation.md#procedure-for-downloading-official-trapeze-api-swagger-json-documentation
+2026-03-19T09:24:00-0400,100%,Google Chrome,17,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/trapeze-api-oas/blob/main/docs/procedures/procedure-for-viewing-official-trapeze-api-documentation.md#procedure-for-downloading-official-trapeze-api-swagger-json-documentation
+2026-03-19T09:26:01-0400,100%,Google Chrome,17,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/trapeze-api-oas/blob/main/docs/procedures/procedure-for-viewing-official-trapeze-api-documentation.md#procedure-for-downloading-official-trapeze-api-swagger-json-documentation
+2026-03-19T09:28:00-0400,100%,Google Chrome,17,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/trapeze-api-oas/blob/main/docs/procedures/procedure-for-viewing-official-trapeze-api-documentation.md#procedure-for-downloading-official-trapeze-api-swagger-json-documentation
+2026-03-19T09:30:00-0400,100%,System Settings,20,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:32:00-0400,100%,Google Chrome,22,https://app.asana.com/0/search?q=call_args&sort=last_modified&searched_type=task&child=1208603227351399
+2026-03-19T09:34:00-0400,100%,Google Chrome,22,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:36:00-0400,100%,Code,22,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:38:00-0400,100%,Slack,22,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:40:00-0400,100%,Code,22,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:42:00-0400,100%,Code,22,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:44:00-0400,100%,Google Chrome,23,https://abb0514.my.centrify.net/my?customerId=ABB0514
+2026-03-19T09:46:00-0400,100%,Windows App,23,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:48:00-0400,100%,Code,22,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:50:00-0400,100%,Code,22,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:52:00-0400,100%,Code,22,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:54:00-0400,100%,Google Chrome,22,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T09:56:00-0400,100%,Google Chrome,23,https://mbta.sharepoint.com/:x:/r/sites/ReConEngDev/_layouts/15/Doc.aspx?sourcedoc=%7B91593B0E-0439-4939-A89A-BFC2E4011C3C%7D&file=ReConEng%20Dev%20Team%20Standup.xlsx&action=default&mobileredirect=true
+2026-03-19T09:58:00-0400,100%,Google Chrome,24,https://**REDACTED_GITHUB_LINK**.com/pdang
+2026-03-19T10:00:01-0400,100%,System Settings,24,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/trapeze-api-oas/blob/main/docs/procedures/procedure-for-viewing-official-trapeze-api-documentation.md#procedure-for-downloading-official-trapeze-api-swagger-json-documentation
+2026-03-19T10:02:01-0400,100%,Slack,24,https://**REDACTED_GITHUB_LINK**.com/pdang?tab=overview&from=2026-03-01&to=2026-03-19
+2026-03-19T10:04:00-0400,100%,Google Chrome,23,https://mbta.sharepoint.com/:x:/r/sites/ReConEngDev/_layouts/15/Doc.aspx?sourcedoc=%7B91593B0E-0439-4939-A89A-BFC2E4011C3C%7D&file=ReConEng%20Dev%20Team%20Standup.xlsx&action=default&mobileredirect=true
+2026-03-19T10:06:00-0400,100%,Google Chrome,24,https://www.washingtonpost.com/games/crossword/
+2026-03-19T10:08:00-0400,100%,Google Chrome,24,https://mbta.sharepoint.com/:x:/r/sites/ReConEngDev/_layouts/15/Doc.aspx?sourcedoc=%7B91593B0E-0439-4939-A89A-BFC2E4011C3C%7D&file=ReConEng%20Dev%20Team%20Standup.xlsx&action=default&mobileredirect=true
+2026-03-19T10:10:00-0400,100%,Google Chrome,25,chrome://newtab/
+2026-03-19T10:12:00-0400,100%,Google Chrome,24,https://mbta.sharepoint.com/:x:/r/sites/ReConEngDev/_layouts/15/Doc.aspx?sourcedoc=%7B91593B0E-0439-4939-A89A-BFC2E4011C3C%7D&file=ReConEng%20Dev%20Team%20Standup.xlsx&action=default&mobileredirect=true
+2026-03-19T10:14:00-0400,100%,Microsoft Outlook,24,https://www.washingtonpost.com/games/crossword/?+games_1=
+2026-03-19T10:16:00-0400,100%,Google Chrome,25,https://www.washingtonpost.com/games/crossword/?+games_1=
+2026-03-19T10:18:00-0400,100%,Google Chrome,26,https://www.washingtonpost.com/games/crossword/?+games_1=
+2026-03-19T10:20:00-0400,100%,Google Chrome,26,https://www.washingtonpost.com/games/crossword/?+games_1=
+2026-03-19T10:22:00-0400,100%,Google Chrome,26,https://www.washingtonpost.com/games/crossword/?+games_1=
+2026-03-19T10:24:01-0400,100%,Google Chrome,27,https://www.google.com/search?q=image+compression+algorithms&oq=image+compression+algorithms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEIMzYyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+2026-03-19T10:26:00-0400,100%,Google Chrome,26,https://www.washingtonpost.com/games/crossword/?+games_1=
+2026-03-19T10:28:00-0400,100%,Google Chrome,26,https://www.washingtonpost.com/games/crossword/?+games_1=
+2026-03-19T10:30:00-0400,100%,Google Chrome,26,https://www.washingtonpost.com/games/crossword/?+games_1=
+2026-03-19T10:32:00-0400,100%,Slack,26,https://mbta.sharepoint.com/:x:/r/sites/ReConEngDev/_layouts/15/Doc.aspx?sourcedoc=%7B91593B0E-0439-4939-A89A-BFC2E4011C3C%7D&file=ReConEng%20Dev%20Team%20Standup.xlsx&action=default&mobileredirect=true
+2026-03-19T10:35:24-0400,100%,Slack,26,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/trapeze-api-oas/blob/main/docs/procedures/procedure-for-viewing-official-trapeze-api-documentation.md#procedure-for-downloading-official-trapeze-api-swagger-json-documentation
+2026-03-19T10:36:52-0400,100%,Slack,26,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/trapeze-api-oas/blob/main/docs/procedures/procedure-for-viewing-official-trapeze-api-documentation.md#procedure-for-downloading-official-trapeze-api-swagger-json-documentation
+2026-03-19T10:40:00-0400,100%,Finder,,
+2026-03-19T10:42:00-0400,100%,Google Chrome,1,chrome://newtab/
+2026-03-19T10:44:00-0400,100%,Google Chrome,1,chrome://newtab/
+2026-03-19T10:48:23-0400,100%,Google Chrome,1,chrome://newtab/
+2026-03-19T10:50:01-0400,100%,Slack,1,chrome://newtab/
+2026-03-19T10:52:00-0400,100%,Code,,
+2026-03-19T10:54:00-0400,100%,Slack,,
+2026-03-19T10:56:00-0400,100%,Slack,1,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-automations/pull/180
+2026-03-19T10:58:00-0400,100%,Slack,1,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-automations/pull/180
+2026-03-19T11:00:00-0400,100%,Code,1,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-automations/pull/180
+2026-03-19T11:02:00-0400,100%,Code,1,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-automations/pull/180
+2026-03-19T11:04:00-0400,100%,Code,,
+2026-03-19T11:06:00-0400,100%,Code,,
+2026-03-19T11:08:00-0400,100%,Code,,
+2026-03-19T11:10:00-0400,100%,Code,,
+2026-03-19T11:12:01-0400,100%,Code,,
+2026-03-19T11:14:00-0400,100%,Code,,
+2026-03-19T11:16:00-0400,100%,Code,,
+2026-03-19T11:18:00-0400,100%,Code,,
+2026-03-19T11:20:00-0400,100%,Code,,
+2026-03-19T11:22:00-0400,100%,Code,,
+2026-03-19T11:24:00-0400,100%,Code,,
+2026-03-19T11:26:01-0400,100%,Code,,
+2026-03-19T11:28:00-0400,100%,Code,,
+2026-03-19T11:30:00-0400,100%,Code,,
+2026-03-19T11:32:00-0400,100%,Code,,
+2026-03-19T11:34:00-0400,100%,Google Chrome,1,https://**REDACTED_GITHUB_LINK**.com/organizations/oce-assetmanagement/settings/secrets/actions
+2026-03-19T11:36:00-0400,100%,Google Chrome,3,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/7
+2026-03-19T11:38:00-0400,100%,Google Chrome,3,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/7
+2026-03-19T11:40:00-0400,100%,Google Chrome,5,https://form.asana.com/?k=waCJYsHS0Wn2DRDP6i6H1A&d=15492006741476
+2026-03-19T11:42:00-0400,100%,Code,3,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/7
+2026-03-19T11:44:00-0400,100%,Google Chrome,4,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T11:46:01-0400,100%,Code,4,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/7
+2026-03-19T11:48:00-0400,100%,Code,4,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/7
+2026-03-19T11:50:00-0400,100%,Code,4,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/7
+2026-03-19T11:52:00-0400,100%,Code,4,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/7
+2026-03-19T11:54:00-0400,100%,Code,4,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/7
+2026-03-19T11:56:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T11:58:01-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:00:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:02:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:04:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:06:00-0400,100%,Slack,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:08:00-0400,100%,Google Chrome,7,https://www.google.com/search?q=openai+astral+how+much&sca_esv=f818ef0c6d37c692&ei=XR-8aZh509qm1A_Av6jADw&biw=1728&bih=886&ved=0ahUKEwjYm8SsrKyTAxVTrYkEHcAfCvgQ4dUDCBM&uact=5&oq=openai+astral+how+much&gs_lp=Egxnd3Mtd2l6LXNlcnAiFm9wZW5haSBhc3RyYWwgaG93IG11Y2gyCBAhGKABGMMESLUMUI8GWJ0LcAR4AZABAJgBnAGgAewEqgEDNC4yuAEDyAEA-AEBmAIIoAKwA8ICChAAGEcY1gQYsAPCAgYQABgHGB7CAggQABgIGAcYHpgDAIgGAZAGCJIHAzcuMaAHqxeyBwMzLjG4B6YDwgcFMC43LjHIBxKACAE&sclient=gws-wiz-serp
+2026-03-19T12:10:00-0400,100%,Google Chrome,9,https://astral.sh/blog/openai
+2026-03-19T12:12:00-0400,100%,Google Chrome,10,https://uk.finance.yahoo.com/news/openai-buy-python-toolmaker-astral-141552912.html
+2026-03-19T12:14:00-0400,100%,Google Chrome,14,https://learn.microsoft.com/en-us/azure/foundry/openai/how-to/codex?tabs=npm
+2026-03-19T12:16:00-0400,100%,Google Chrome,14,https://chatgpt.com/codex?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_X_SEM_GBR_Codex_CDX_BAU_ACQ_PER_DMA_ALL_NAMER_US_EN_031826&c_id=23655882150&c_agid=197896593561&c_crid=800673030479&c_kwid=kwd-138465504&c_ims=&c_pms=9061334&c_nw=g&c_dvc=c&gad_source=1&gad_campaignid=23655882150&gbraid=0AAAAA-I0E5fqhK2PulHuA5HEbw8kimfPq&gclid=EAIaIQobChMIhJDRgK6skwMVSXVHAR2v5BlfEAAYASAAEgI-QvD_BwE
+2026-03-19T12:18:00-0400,100%,Google Chrome,16,https://learn.microsoft.com/en-us/azure/foundry/openai/how-to/codex?tabs=npm
+2026-03-19T12:20:00-0400,100%,Slack,6,chrome://newtab/
+2026-03-19T12:22:01-0400,100%,Slack,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:24:00-0400,100%,Slack,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:26:00-0400,100%,Google Chrome,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:28:01-0400,100%,Code,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:30:00-0400,100%,Code,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:32:00-0400,100%,Code,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:34:00-0400,100%,Google Chrome,7,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-docs/tree/main/docs#docs
+2026-03-19T12:36:00-0400,100%,Code,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:38:00-0400,100%,Code,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:40:00-0400,100%,Slack,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:42:00-0400,100%,Code,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:44:00-0400,100%,Code,6,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:46:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:48:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:50:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:52:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/list/1208150295590436
+2026-03-19T12:54:00-0400,100%,Google Chrome,5,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/7
+2026-03-19T12:56:00-0400,100%,Google Chrome,6,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-docs/pull/98
+2026-03-19T12:58:01-0400,100%,Google Chrome,5,https://**REDACTED_GITHUB_LINK**.com/pulls?q=org%3Aoce-assetmanagement+is%3Aopen+is%3Apr+-is%3Adraft+author%3Apdang+label%3A%22needs+review%22+
+2026-03-19T13:00:00-0400,100%,Google Chrome,5,chrome://newtab/
+2026-03-19T13:02:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/task/1213471206688300?focus=true
+2026-03-19T13:04:00-0400,100%,Code,5,https://app.asana.com/1/15492006741476/project/1208150140911285/task/1213471206688300?focus=true
+2026-03-19T13:06:00-0400,100%,Google Chrome,10,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-common-core-library/tree/main/recon_common_core
+2026-03-19T13:08:00-0400,100%,Code,9,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-docs/blob/main/Makefile
+2026-03-19T13:10:00-0400,100%,Code,10,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/blob/main/Makefile
+2026-03-19T13:12:00-0400,100%,Code,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/blob/main/Makefile
+2026-03-19T13:14:00-0400,100%,Google Chrome,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-splunk-vcs/blob/main/pyproject.toml
+2026-03-19T13:16:00-0400,100%,Google Chrome,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-splunk-vcs/blob/main/Makefile
+2026-03-19T13:18:00-0400,100%,Code,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/blob/main/Makefile
+2026-03-19T13:20:00-0400,100%,Code,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/blob/main/Makefile
+2026-03-19T13:22:00-0400,100%,Google Chrome,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/blob/main/Makefile
+2026-03-19T13:24:00-0400,100%,Code,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/blob/main/Makefile
+2026-03-19T13:26:00-0400,100%,Code,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/blob/main/Makefile
+2026-03-19T13:28:00-0400,100%,Code,12,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/compare/RECON-1639?expand=1
+2026-03-19T13:30:00-0400,100%,Code,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-splunk-vcs/blob/main/Makefile
+2026-03-19T13:32:00-0400,100%,Google Chrome,13,chrome://newtab/
+2026-03-19T13:34:00-0400,100%,Google Chrome,13,https://pypi.org/project/urllib3/
+2026-03-19T13:36:00-0400,100%,Slack,13,https://pypi.org/project/urllib3/
+2026-03-19T13:38:01-0400,100%,Google Chrome,13,https://pypi.org/project/urllib3/
+2026-03-19T13:40:00-0400,100%,Code,12,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-automations/pull/181/files#diff-50c86b7ed8ac2cf95bd48334961bf0530cdc77b5a56f852c5c61b89d735fd711
+2026-03-19T13:42:00-0400,100%,Google Chrome,14,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-common-core-library
+2026-03-19T13:44:01-0400,100%,Google Chrome,13,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-cli/pull/26/files
+2026-03-19T13:46:00-0400,100%,Google Chrome,13,https://www.google.com/search?q=flake8+config+pyproject.toml&oq=flake8+config+p&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMgYIBxBFGDzSAQgzMzY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+2026-03-19T13:48:00-0400,100%,Google Chrome,13,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/mbta-asana-client/pull/9
+2026-03-19T13:50:00-0400,100%,Terminal,12,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T13:52:00-0400,100%,Slack,12,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T13:54:00-0400,100%,Code,13,chrome://inspect/#devices
+2026-03-19T13:56:00-0400,100%,Terminal,13,chrome://inspect/#devices
+2026-03-19T13:58:00-0400,100%,Google Chrome,14,chrome://inspect/#devices
+2026-03-19T14:00:00-0400,100%,Slack,14,chrome://inspect/#devices
+2026-03-19T14:02:00-0400,100%,Code,15,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T14:04:00-0400,100%,Google Chrome,16,https://www.google.com/maps/@42.3944051,-71.0698654,6245m/data=!3m1!1e3!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D
+2026-03-19T14:06:00-0400,100%,Slack,1,https://app.zoom.us/wc/9288056067/join?ref_from=launch&fromPWA=1&pwd=SNwOQE56XsWStGJk0JWz2Kd2g12JZT.1&_x_zm_rtaid=YJmDoJcRSHCh8dDiUrKtIw.1773943483856.8efb12646be6b49d944f38a8d30906bf&_x_zm_rhtaid=177
+2026-03-19T14:08:00-0400,100%,Google Chrome,2,https://app.zoom.us/wc/9288056067/join?ref_from=launch&fromPWA=1&pwd=SNwOQE56XsWStGJk0JWz2Kd2g12JZT.1&_x_zm_rtaid=YJmDoJcRSHCh8dDiUrKtIw.1773943483856.8efb12646be6b49d944f38a8d30906bf&_x_zm_rhtaid=177
+2026-03-19T14:10:01-0400,100%,Google Chrome,2,https://app.zoom.us/wc/9288056067/join?ref_from=launch&fromPWA=1&pwd=SNwOQE56XsWStGJk0JWz2Kd2g12JZT.1&_x_zm_rtaid=YJmDoJcRSHCh8dDiUrKtIw.1773943483856.8efb12646be6b49d944f38a8d30906bf&_x_zm_rhtaid=177
+2026-03-19T14:12:00-0400,100%,Google Chrome,5,about:blank
+2026-03-19T14:14:00-0400,100%,Google Chrome,6,about:blank
+2026-03-19T14:16:00-0400,100%,Google Chrome,8,about:blank
+2026-03-19T14:18:00-0400,100%,Google Chrome,8,about:blank
+2026-03-19T14:20:00-0400,100%,Google Chrome,7,about:blank
+2026-03-19T14:22:00-0400,100%,Google Chrome,7,about:blank
+2026-03-19T14:24:01-0400,100%,Google Chrome,6,about:blank
+2026-03-19T14:26:00-0400,100%,zoom.us,4,https://us04web.zoom.us/j/9288056067?pwd=SNwOQE56XsWStGJk0JWz2Kd2g12JZT.1#success
+2026-03-19T14:28:00-0400,100%,zoom.us,4,https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065790
+2026-03-19T14:30:00-0400,100%,zoom.us,5,https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065790#h_6922651d-d279-44bd-b36a-cc2a30696c70
+2026-03-19T14:32:00-0400,100%,zoom.us,5,https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065790
+2026-03-19T14:34:01-0400,100%,Google Chrome,6,https://zoom.us/profile/setting?tab=meeting
+2026-03-19T14:36:00-0400,100%,zoom.us,9,https://www.reddit.com/r/Zoom/comments/l5d9wr/anyone_know_if_zoom_has_any_plans_to_make_screen/
+2026-03-19T14:38:00-0400,100%,zoom.us,9,https://www.reddit.com/r/Zoom/comments/l5d9wr/anyone_know_if_zoom_has_any_plans_to_make_screen/
+2026-03-19T14:40:00-0400,100%,Slack,5,https://www.google.com/search?q=Chrome+Remote+Desktop&oq=Chrome+Remote+Desktop&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxAFGEDSAQcxMzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+2026-03-19T14:42:01-0400,100%,Google Chrome,2,https://**REDACTED_GITHUB_LINK**.com/pulls?q=org%3Aoce-assetmanagement+is%3Aopen+is%3Apr+author%3Apdang+
+2026-03-19T14:44:00-0400,100%,Slack,3,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T14:46:00-0400,100%,Google Chrome,5,https://www.google.com/search?q=l%E1%BB%8Bch+tr%C3%ACnh+ngh%C4%A9a+l%C3%A0+g%C3%AC&oq=l%E1%BB%8Bch+tr%C3%ACnh+ngh%C4%A9a+l%C3%A0+g%C3%AC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yBwgCEAAY7wUyCggDEAAYgAQYogQyBwgEEAAY7wUyCggFEAAYgAQYogQyCggGEAAYgAQYogTSAQg5NzU0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+2026-03-19T14:48:00-0400,100%,Google Chrome,4,https://abb0514.my.centrify.net/my?customerId=ABB0514
+2026-03-19T14:50:01-0400,100%,Google Chrome,4,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/blob/b9f03051edab197b53140da5df768f939d295775/hsgithub_actions_runner_monitor/hsgithub_runner_monitor.py
+2026-03-19T14:52:00-0400,100%,Code,3,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T14:54:00-0400,100%,Windows App,5,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T14:56:00-0400,100%,Windows App,5,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/7
+2026-03-19T14:58:00-0400,100%,Windows App,6,https://www.google.com/search?q=git+pull+accept+all+incoming+changes&oq=&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAAGEMYsQMYgAQYigUyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMhIIBBAAGEMYgwEYsQMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQg3NDYzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+2026-03-19T15:00:00-0400,100%,Slack,6,https://www.google.com/search?q=echo+powershell+redirection+with+utf+8&oq=echo+powershell+redirection+with+utf+8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRirAjIHCAUQIRiPAtIBCDUxODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+2026-03-19T15:02:00-0400,100%,Windows App,8,https://stackoverflow.com/questions/11045077/edit-a-text-file-on-the-console-using-powershell
+2026-03-19T15:04:00-0400,100%,Windows App,9,https://www.google.com/search?q=%5EM+in+vim&sca_esv=822a830dd0cf28f6&ei=kEi8aeOUNKmYptQPiJunuQI&biw=1920&bih=929&ved=0ahUKEwjjnJHS06yTAxUpjIkEHYjNKScQ4dUDCBM&uact=5&oq=%5EM+in+vim&gs_lp=Egxnd3Mtd2l6LXNlcnAiCV5NIGluIHZpbTIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCBAAGBYYHhgKMgYQABgWGB4yBhAAGBYYHkifCFD_AVjSBnABeACQAQCYAXCgAfcDqgEDNS4yuAEDyAEA-AEBmAIIoAKdBMICCBAAGIAEGLADmAMAiAYBkAYKkgcDNi4yoAePJLIHAzUuMrgHmwTCBwUwLjIuNsgHGoAIAQ&sclient=gws-wiz-serp
+2026-03-19T15:06:00-0400,100%,Windows App,8,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring
+2026-03-19T15:08:00-0400,100%,Windows App,8,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring
+2026-03-19T15:10:00-0400,100%,Windows App,8,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring
+2026-03-19T15:12:01-0400,100%,Windows App,8,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring
+2026-03-19T15:14:00-0400,100%,Windows App,8,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring
+2026-03-19T15:16:00-0400,100%,Terminal,8,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring
+2026-03-19T15:18:00-0400,100%,Slack,9,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?q=search%20index%3Drecon%20host%3DAWEAMPRDRCAPP01&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-30m%40m&latest=now&sid=1773947873.579312
+2026-03-19T15:20:00-0400,100%,Windows App,9,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/actions
+2026-03-19T15:22:00-0400,100%,Windows App,9,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/actions/runs/118978/job/121039
+2026-03-19T15:24:00-0400,100%,Google Chrome,11,https://stackoverflow.com/questions/11868447/how-can-i-remove-an-entry-in-global-configuration-with-git-config
+2026-03-19T15:26:01-0400,100%,Google Chrome,6,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?q=search%20index%3Drecon%20host%3DAWEAMPRDRCAPP01&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-30m%40m&latest=now&sid=1773948320.579522
+2026-03-19T15:28:00-0400,100%,Google Chrome,7,https://app.asana.com/0/search?q=index%3Drecon-test&sort=last_modified&searched_type=task&child=1213104707339025
+2026-03-19T15:30:00-0400,100%,Google Chrome,7,https://app.asana.com/0/search?q=index%3Drecon-test&sort=last_modified&searched_type=task&child=1213104707339025
+2026-03-19T15:32:00-0400,100%,Google Chrome,11,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pull/6
+2026-03-19T15:34:00-0400,100%,Google Chrome,8,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring_test/edit
+2026-03-19T15:36:00-0400,100%,Slack,10,https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.4/search-commands/spath
+2026-03-19T15:38:00-0400,100%,Slack,10,https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.4/search-commands/spath
+2026-03-19T15:40:01-0400,100%,Google Chrome,12,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-automations/pull/174
+2026-03-19T15:42:00-0400,100%,Google Chrome,13,https://calendar.google.com/calendar/u/0/r
+2026-03-19T15:44:00-0400,100%,Slack,19,chrome://newtab/
+2026-03-19T15:46:00-0400,100%,Google Chrome,19,https://docs.google.com/document/d/1l56KTAdhtZTE3G_rp4SlyC0Hh-wkDhtWjOi-r5A3fCQ/edit?pli=1&tab=t.0
+2026-03-19T15:48:00-0400,100%,Google Chrome,17,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?q=search%20index%3Drecon%20host%3DAWEAMPRDRCAPP01&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-30m%40m&latest=now&sid=1773948320.579522
+2026-03-19T15:50:00-0400,100%,Google Chrome,11,https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.4/search-commands/spath
+2026-03-19T15:52:00-0400,100%,Google Chrome,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring_test/edit
+2026-03-19T15:54:00-0400,100%,Google Chrome,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T15:56:01-0400,100%,Google Chrome,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T15:58:00-0400,100%,Google Chrome,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:00:00-0400,100%,Google Chrome,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:02:00-0400,100%,Slack,12,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-automations/blob/main/.github/workflows/requirements_txt_updater.py
+2026-03-19T16:04:00-0400,100%,Slack,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:06:00-0400,100%,Google Chrome,13,https://www.pokemon.com/us/pokemon-news/bag-your-first-blipbug-during-pokemon-gos-2026-bug-out-event
+2026-03-19T16:08:00-0400,100%,Google Chrome,13,https://www.pokemon.com/us/pokemon-news/bag-your-first-blipbug-during-pokemon-gos-2026-bug-out-event
+2026-03-19T16:10:00-0400,100%,Google Chrome,17,https://shinyrates.com/
+2026-03-19T16:12:00-0400,100%,Google Chrome,15,https://shinyrates.com/
+2026-03-19T16:14:00-0400,100%,Slack,11,https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.4/search-commands/spath
+2026-03-19T16:16:00-0400,100%,Slack,11,https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.4/search-commands/spath
+2026-03-19T16:18:00-0400,100%,Code,11,https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.4/search-commands/spath
+2026-03-19T16:20:00-0400,100%,Windows App,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:22:00-0400,100%,Windows App,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:24:00-0400,100%,Windows App,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:26:00-0400,100%,Windows App,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:28:00-0400,100%,Windows App,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:30:00-0400,100%,Windows App,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:32:01-0400,100%,Windows App,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:34:01-0400,100%,Slack,11,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?earliest=-10m&latest=now&q=search%20index%3Drecon%20MESSAGE%3D%22log_status_hsgithub_runners_result%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%7C%20eval%20STATUS_CODE%3Dif(RUNNER_STATUS%20%3D%3D%20%22online%22%2C%201%2C%20if(STATUS%20%3D%3D%20%22offline%22%2C%200%2C%20-1))&display.page.search.mode=fast&dispatch.sample_ratio=1&display.general.type=events&sid=1773949934.580332
+2026-03-19T16:36:00-0400,100%,Windows App,11,https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.4/search-commands/spath
+2026-03-19T16:38:00-0400,100%,Slack,14,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-common-core-library/blob/f6e2fd6aa3bd1bb395545339adc0b3f059c7bf91/tests/test_feature_flags.py#L19
+2026-03-19T16:40:00-0400,100%,Google Chrome,14,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/search?q=search%20index%3Drecon%20host%3DAWEAMPRDRCAPP01%7C%20spath%20RUNNER_NAME%20%7C%20search%20RUNNER_NAME%3D%22HSJOB02-2%22&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-30m%40m&latest=now&sid=1773949682.580199
+2026-03-19T16:42:00-0400,100%,Google Chrome,13,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring_test/edit
+2026-03-19T16:44:00-0400,100%,Google Chrome,13,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring_test/edit
+2026-03-19T16:46:00-0400,100%,Code,13,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring_test/edit
+2026-03-19T16:48:01-0400,100%,Code,14,https://eamtst22.mbta.com/eamtest22/Tools/GetResource.aspx?r=fafile:///82e6ff32-0770-4111-a14d-704987cd8495.png
+2026-03-19T16:50:00-0400,100%,Code,15,https://app.asana.com/0/search?q=index%3Drecon-test&sort=last_modified&searched_type=task&child=1213104707339025
+2026-03-19T16:52:00-0400,100%,Google Chrome,17,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/hsgithub-actions-runner-monitor/pulls?q=is%3Apr+is%3Aclosed
+2026-03-19T16:54:00-0400,100%,Google Chrome,13,https://**REDACTED_SPLUNK_LINK**.splunkcloud.com/en-US/app/search/reconeng_application_monitoring_test
+2026-03-19T16:56:00-0400,100%,Google Chrome,15,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-common-core-library
+2026-03-19T16:58:00-0400,100%,Google Chrome,16,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-common-core-library/blob/main/.pylintrc
+2026-03-19T17:00:00-0400,100%,Google Chrome,18,https://github.com/Takishima/pylint-secure-coding-standard/blob/main/pyproject.toml
+2026-03-19T17:02:00-0400,100%,Google Chrome,18,https://**REDACTED_GITHUB_LINK**.com/oce-assetmanagement/recon-splunk-vcs/pull/51
+2026-03-19T17:04:00-0400,100%,Slack,13,https://**REDACTED_GITHUB_LINK**.com/search?q=os.environ&type=code
+2026-03-19T17:07:03-0400,100%,Google Chrome,14,chrome://newtab/
+2026-03-19T17:08:00-0400,100%,Google Chrome,14,chrome://newtab/
+2026-03-19T17:10:22-0400,100%,Google Chrome,14,chrome://newtab/
+2026-03-19T17:12:00-0400,100%,Google Chrome,14,chrome://newtab/
+2026-03-19T17:16:05-0400,100%,Google Chrome,14,chrome://newtab/
+2026-03-19T17:18:25-0400,100%,Google Chrome,14,chrome://newtab/
+2026-03-19T17:38:00-0400,100%,Google Chrome,14,chrome://newtab/
+2026-03-19T19:06:00-0400,100%,Google Chrome,14,chrome://newtab/
+2026-03-19T19:52:10-0400,100%,Google Chrome,14,chrome://newtab/
+2026-03-19T21:08:00-0400,100%,Google Chrome,14,chrome://newtab/
