@@ -11,7 +11,7 @@ current_battery=$(pmset -g batt | grep -Eo "\d+%")
 # (what I am looking at)
 current_window=$(osascript $HOME/LaptopActivityTracker/osascripts/frontmost-window.applescript)
 
-# Wrapper for oascript run -- this script returns the URL for
+# Wrapper for oascript run -- thiscr script returns the URL for
 # the current tab and the number of tabs
 chrome_info=($(osascript $HOME/LaptopActivityTracker/osascripts/chrome-info.applescript))
 active_chrome_tab_url=${chrome_info[0]%?}
