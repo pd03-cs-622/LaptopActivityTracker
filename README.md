@@ -20,6 +20,19 @@ Settings:
 */2 * * * * $HOME/LaptopActivityTracker/run.sh >> $HOME/LaptopActivityTracker/run.log 2>&1
 ```
 
+## AI Usage
+
+I used Gemini to generate the `applescript` files located in `oascripts/` to log acitivity on my MacBook. This script can be ran on macOS using the built-in `osascript` command. These logs are located in the `chats/` directory.
+
+## Data
+
+See [`data/example.csv`](/data/example.csv) to see a sample of what each log looks like. I am recording:
+- `time`: the timestamp in local time zone
+- `battery_percent`: my current battery percent
+- `current_window`: the current window I am looking at
+- `num_chrome_tabs`: the number of Chrome tabs I have opened
+- `active_chrome_tab_url`: the current URL of the Chrome tab of current Chrome session.
+
 ## Data Visualization
 
 I ran this script on my work computer from March 17th to March 28th, where I work regular 9 AM to 5 PM Monday through Friday.
@@ -67,4 +80,3 @@ Figure 6 shows the same data as Figure 5, but zoomed in by day. The timezone is 
 ![](/graphs/fig_7_window_switches_overlap.png)
 
 Figure 7 shows the same data but overlapped, hoping to see more patterns. again, it seems like after lunch hours past 2 PM is where more window switching happens. Overall, it looks like I do a lot of window switching, much more than I expected.
-

@@ -1,0 +1,18 @@
+User: Write an applescript file that will log the frontmost window that I am viewing. Return the app display name. Assume I already have a MacBook and can excute this using oascripts. Write only the code.
+Gemini:
+tell application "System Events"
+    set frontApp to first application process whose frontmost is true
+    set appName to displayed name of frontApp
+end tell
+return appName
+User: Write an applescript file that will record the total number of tabs on Chrome I have opened and the current URL of the active window. Return the data as a dictionary and have the script be able to be called from command line oascript command.
+Gemini:
+tell application "Google Chrome"
+    set activeURL to URL of active tab of front window
+    set totalTabs to 0
+    set allWindows to every window
+    repeat with aWindow in allWindows
+        set totalTabs to totalTabs + (count of tabs of aWindow)
+    end repeat
+    return {activeURL, totalTabs}
+end tell
